@@ -1,5 +1,8 @@
 # ZeroLend
 
+<img src='https://raw.githubusercontent.com/erictee2802/audits/main/cantina/collections/erictee.png'/>
+
+
 ## Findings Summary
 
 | ID | Description | Severity |
