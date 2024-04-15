@@ -24,3 +24,10 @@ Reach out to me on:
 | Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | DeGate Boost | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/Report%2026286.md | $750 |
+
+
+## Cantina
+
+| Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| ZeroLend | 1 | 1 | 0 | https://github.com/erictee2802/audits/blob/main/cantina/2024-01-zerolend.md | $1331.68 |
