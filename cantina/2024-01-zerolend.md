@@ -1,6 +1,6 @@
 # ZeroLend
 
-<img src='https://raw.githubusercontent.com/erictee2802/audits/main/cantina/collections/erictee.png'/>
+<img src='https://raw.githubusercontent.com/erictee2802/audits/main/cantina/collections/erictee-zerolend.png'/>
 
 
 ## Findings Summary
