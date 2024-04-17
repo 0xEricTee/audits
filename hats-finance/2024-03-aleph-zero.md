@@ -1,4 +1,4 @@
-# Ether.Fi
+# Aleph Zero Bridge
 
 The original submission can be found in [`here`](https://github.com/hats-finance/Most--Aleph-Zero-Bridge-0xab7c1d45ae21e7133574746b2985c58e0ae2e61d/issues/3).
 
