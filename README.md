@@ -24,7 +24,7 @@ Reach out to me on:
 
 | Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| DeGate Boost | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/Report%2026286.md | $750 |
+| DeGate Boost | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/DeGate/Report%2026286.md | $750 |
 
 
 ## Cantina

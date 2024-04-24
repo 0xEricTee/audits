@@ -6,7 +6,7 @@ The original submission can be found in [`here`](https://github.com/hats-finance
 
 | ID | Description | Severity |
 | :-: | - | :-: |
-| [L-01](#l-01-wrong-implementation-in-migrations-upgrade-causes-this-function-doesnt-work-as-expected) | Wrong implementation in Migrations::upgrade causes this function doesn't work as expected. | Low |
+| [L-01](#l-01-wrong-implementation-in-migrationsupgrade-causes-this-function-doesnt-work-as-expected) | Wrong implementation in Migrations::upgrade causes this function doesn't work as expected. | Low |
 
 
 ## [L-01] Wrong implementation in Migrations::upgrade causes this function doesn't work as expected.
