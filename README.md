@@ -22,9 +22,10 @@ Reach out to me on:
 
 ## Immunefi Boosted Bug Bounty Program
 
-| Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| DeGate Boost | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/DeGate/Report%2026286.md | $750 |
+| Contest | Critical Severity | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| ZeroLend Boost | 1 | 1 | 0 | 0 | 1. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029267.md <br />2. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029288.md | TBA |
+| DeGate Boost | 0 | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/DeGate/Report%2026286.md | $750 |
 
 
 ## Cantina
