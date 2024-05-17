@@ -13,7 +13,7 @@ Reach out to me on:
 
 | Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| Aleph Zero Bridge | 0 | 0 | 1 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-03-aleph-zero.md | TBA |
+| Aleph Zero Bridge | 0 | 0 | 1 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-03-aleph-zero.md | $1000 |
 | Origami | 0 | 1 | 0 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-02-origami.md | ~$6720 |
 | Paladin | 0 | 1 | 0 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-02-paladin.md | ~$4200 |
 | Catalyst Exchange | 0 | 0 | 1 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-01-catalyst-exchange.md | $1000 |
@@ -24,7 +24,7 @@ Reach out to me on:
 
 | Contest | Critical Severity | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
 |:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-| ZeroLend Boost | 1 | 1 | 0 | 0 | 1. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029267.md <br />2. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029288.md | TBA |
+| ZeroLend Boost | 1 | 1 | 0 | 0 | 1. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029267.md <br />2. https://github.com/immunefi-team/Bounty_Boosts/blob/main/ZeroLend/Report%2029288.md | $8125.8 |
 | DeGate Boost | 0 | 0 | 0 | 1 | https://github.com/immunefi-team/Bounty_Boosts/blob/main/DeGate/Report%2026286.md | $750 |
 
 
