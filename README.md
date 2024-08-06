@@ -13,6 +13,7 @@ Reach out to me on:
 
 | Contest | High Severity | Medium Severity | Low Severity | Security report  | Payout  |
 |:--:|:--:|:--:|:--:|:--:|:--:|
+| Inverter Network | 0 | 0 | 4 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-07-inverter-network.md | ~$1000 |
 | Aleph Zero Bridge | 0 | 0 | 1 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-03-aleph-zero.md | $1000 |
 | Origami | 0 | 1 | 0 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-02-origami.md | ~$6720 |
 | Paladin | 0 | 1 | 0 | https://github.com/erictee2802/audits/blob/main/hats-finance/2024-02-paladin.md | ~$4200 |
